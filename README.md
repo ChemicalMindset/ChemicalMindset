@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemicalMinset&theme=github-dark&bg_color=0d1117&color=1278ba&line=1278ba&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChemicalMindset&theme=github-dark&bg_color=0d1117&color=1278ba&line=1278ba&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </p>
 
 ---
