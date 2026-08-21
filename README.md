@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### 🔧 Tools
 
@@ -56,6 +56,17 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChemicalMindset&theme=github_dark)
   
  </div>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ChemicalMindset">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChemicalMindset&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ChemicalMindset">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChemicalMindset&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
  
  ### ⏱ Streak Stats
  
