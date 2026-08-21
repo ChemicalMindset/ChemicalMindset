@@ -57,8 +57,13 @@
  
 <p>
  <a href="https://github.com/ChemicalMindset">
-  <img height="150em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChemicalMindset&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChemicalMindset&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChemicalMindset&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ </a>
+</p>
+
+<p>
+ <a href="https://github.com/ChemicalMindset">
+  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChemicalMindset&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
 
